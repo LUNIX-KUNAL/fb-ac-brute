@@ -18,7 +18,7 @@
 Install fb-ac-brute with git
 
 ```bash
-  git clone https://github.com/LUNIX-KUNAL/
+  https://github.com/LUNIX-KUNAL/fb-ac-brute
   cd fb-ac-brute
   chmod 777 *
   python3 brute.py
